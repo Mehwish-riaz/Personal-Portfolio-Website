@@ -6,7 +6,7 @@ This project includes responsive design, skill animations, project showcases, ed
 ---
 
 # 🚀 Live Demo
-> [Add your hosted website link here]
+https://personal-portfolio-website-peach-mu.vercel.app/
 
 ---
 
@@ -55,12 +55,9 @@ This project includes responsive design, skill animations, project showcases, ed
 **Mishu**  
 Software Engineering Student | Front-End Developer 
 
----
+
 
 ⭐ If you like this project, don't forget to **star the repository**.
-
-# ⚡ License
-This project is **open-source** and created for **personal portfolio demonstration** purposes.
 
 ---
 
