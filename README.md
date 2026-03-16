@@ -49,10 +49,18 @@ This project includes responsive design, skill animations, project showcases, ed
 | Media Queries | Mobile responsiveness |
 | Custom CSS Animations | Skill bars & card hover effects |
 
+---
+## 👩‍💻 Author
+
+**Mishu**  
+Software Engineering Student | Front-End Developer 
+
+---
+
+⭐ If you like this project, don't forget to **star the repository**.
 
 # ⚡ License
 This project is **open-source** and created for **personal portfolio demonstration** purposes.
 
 ---
 
-**Made with ❤️ by Mehwish Riaz using HTML, CSS & Bootstrap**
